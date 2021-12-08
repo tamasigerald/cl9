@@ -1,0 +1,13 @@
+@mixin colors {
+    --c-white: #ffffff;
+    --c-gray--50: #eeeeee;
+    --c-gray--100: #656565;
+    --c-black--50: #2b2b2b;
+    --c-black--100: #202020;
+    --c-primary: #b69f58;
+
+    --c-body: #f9f9f9;
+    --c-text: var(--c-black--100);
+    --c-text-secondary: var(--c-gray--100);
+    --c-text-gray: var(--c-gray--100);
+}

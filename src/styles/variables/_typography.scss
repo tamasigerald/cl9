@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+@font-face {
+    font-family: 'Miller Banner';
+    src: url('/src/assets/fonts/Miller-Banner-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+:root {
+    --text-base-size: 2.5rem;
+    --text-xs: calc(0.55 * var(--text-base-size));
+    --text-sm: calc(0.65 * var(--text-base-size));
+    --text-base: calc(0.75 * var(--text-base-size));
+    --text-md: var(--text-base-size);
+    --text-lg: calc(1.1 * var(--text-base-size));
+
+    --t-regular: 400;
+    --t-medium: 500;
+    --t-bold: 600;
+
+    --t-primary: 'Open Sans', sans-serif;
+    --t-secondary: 'Miller Banner';
+}

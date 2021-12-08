@@ -1,0 +1,11 @@
+$sm: 480px;
+$md: 640px;
+$lg: 768px;
+$xl: 1024px;
+$xxl: 1280px;
+
+@mixin bp($breakpoint) {
+    @media screen and (min-width: $breakpoint) {
+        @content;
+    }
+} ;

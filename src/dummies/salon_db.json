@@ -1,0 +1,924 @@
+{
+    "salons": [
+        {
+            "id": 1,
+            "name": "Kub and Sons",
+            "price": 803.62,
+            "url": "businessinsider.com",
+            "phone": "669-123-8812",
+            "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+            "average_rating": 4,
+            "total_ratings": 45,
+            "address": "32 Delladonna Plaza",
+            "image": "/src/assets/images/hero.png",
+            "schedule": [
+                {
+                    "Monday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Tuesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Wednesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Thursday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Friday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                { "Saturday": [] },
+                { "Sunday": [] }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Jacobson-Greenholt",
+            "price": 528.46,
+            "url": "eventbrite.com",
+            "phone": "633-982-2903",
+            "description": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+            "average_rating": 0,
+            "total_ratings": 12,
+            "address": "7 Dennis Trail",
+            "image": "/src/assets/images/hero.png",
+            "schedule": [
+                {
+                    "Monday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Tuesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Wednesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Thursday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Friday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                { "Saturday": [] },
+                { "Sunday": [] }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Beier-Heaney",
+            "price": 173.15,
+            "url": "fc2.com",
+            "phone": "846-912-7971",
+            "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+            "average_rating": 4,
+            "total_ratings": 47,
+            "address": "6 Ronald Regan Plaza",
+            "image": "/src/assets/images/hero.png",
+            "schedule": [
+                {
+                    "Monday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Tuesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Wednesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Thursday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Friday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                { "Saturday": [] },
+                { "Sunday": [] }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Schinner, Gleason and Stokes",
+            "price": 800.67,
+            "url": "hao123.com",
+            "phone": "394-127-3284",
+            "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+            "average_rating": 4,
+            "total_ratings": 7,
+            "address": "0 Westerfield Way",
+            "image": "/src/assets/images/hero.png",
+            "schedule": [
+                {
+                    "Monday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Tuesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Wednesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Thursday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Friday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                { "Saturday": [] },
+                { "Sunday": [] }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "O'Kon-Jacobson",
+            "price": 467.0,
+            "url": "google.com.br",
+            "phone": "119-657-8289",
+            "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+            "average_rating": 1,
+            "total_ratings": 80,
+            "address": "0 New Castle Court",
+            "image": "/src/assets/images/hero.png",
+            "schedule": [
+                {
+                    "Monday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Tuesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Wednesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Thursday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Friday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                { "Saturday": [] },
+                { "Sunday": [] }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Spencer-Nolan",
+            "price": 392.7,
+            "url": "aboutads.info",
+            "phone": "804-452-3448",
+            "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+            "average_rating": 1,
+            "total_ratings": 8,
+            "address": "069 Vermont Road",
+            "image": "/src/assets/images/hero.png",
+            "schedule": [
+                {
+                    "Monday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Tuesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Wednesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Thursday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Friday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                { "Saturday": [] },
+                { "Sunday": [] }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Lind, Bahringer and Shields",
+            "price": 213.26,
+            "url": "indiatimes.com",
+            "phone": "366-652-8307",
+            "description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+            "average_rating": 4,
+            "total_ratings": 22,
+            "address": "30 Lerdahl Court",
+            "image": "/src/assets/images/hero.png",
+            "schedule": [
+                {
+                    "Monday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Tuesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Wednesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Thursday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Friday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                { "Saturday": [] },
+                { "Sunday": [] }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Mertz-Larkin",
+            "price": 335.25,
+            "url": "cbsnews.com",
+            "phone": "142-198-5370",
+            "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+            "average_rating": 2,
+            "total_ratings": 7,
+            "address": "28 Dottie Junction",
+            "image": "/src/assets/images/hero.png",
+            "schedule": [
+                {
+                    "Monday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Tuesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Wednesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Thursday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Friday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                { "Saturday": [] },
+                { "Sunday": [] }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Braun-Barton",
+            "price": 631.7,
+            "url": "nytimes.com",
+            "phone": "469-683-4383",
+            "description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+            "average_rating": 3,
+            "total_ratings": 20,
+            "address": "8 Chinook Trail",
+            "image": "/src/assets/images/hero.png",
+            "schedule": [
+                {
+                    "Monday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Tuesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Wednesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Thursday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Friday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                { "Saturday": [] },
+                { "Sunday": [] }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Waelchi-Cole",
+            "price": 952.89,
+            "url": "bloomberg.com",
+            "phone": "445-882-4521",
+            "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+            "average_rating": 2,
+            "total_ratings": 20,
+            "address": "9010 Hansons Circle",
+            "image": "/src/assets/images/hero.png",
+            "schedule": [
+                {
+                    "Monday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Tuesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Wednesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Thursday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Friday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                { "Saturday": [] },
+                { "Sunday": [] }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Strosin and Sons",
+            "price": 534.78,
+            "url": "de.vu",
+            "phone": "711-960-8482",
+            "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+            "average_rating": 0,
+            "total_ratings": 73,
+            "address": "61 Mariners Cove Point",
+            "image": "/src/assets/images/hero.png",
+            "schedule": [
+                {
+                    "Monday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Tuesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Wednesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Thursday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Friday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                { "Saturday": [] },
+                { "Sunday": [] }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Halvorson, Cassin and Kemmer",
+            "price": 606.4,
+            "url": "latimes.com",
+            "phone": "290-394-6051",
+            "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+            "average_rating": 0,
+            "total_ratings": 43,
+            "address": "069 Schlimgen Center",
+            "image": "/src/assets/images/hero.png",
+            "schedule": [
+                {
+                    "Monday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Tuesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Wednesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Thursday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Friday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                { "Saturday": [] },
+                { "Sunday": [] }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Barton, Weissnat and Leannon",
+            "price": 834.34,
+            "url": "t-online.de",
+            "phone": "978-173-3162",
+            "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+            "average_rating": 0,
+            "total_ratings": 96,
+            "address": "952 Farragut Circle",
+            "image": "/src/assets/images/hero.png",
+            "schedule": [
+                {
+                    "Monday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Tuesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Wednesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Thursday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Friday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                { "Saturday": [] },
+                { "Sunday": [] }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Connelly Inc",
+            "price": 874.3,
+            "url": "about.me",
+            "phone": "480-398-7767",
+            "description": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+            "average_rating": 0,
+            "total_ratings": 45,
+            "address": "93287 Bashford Alley",
+            "image": "/src/assets/images/hero.png",
+            "schedule": [
+                {
+                    "Monday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Tuesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Wednesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Thursday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Friday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                { "Saturday": [] },
+                { "Sunday": [] }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "O'Kon Group",
+            "price": 253.38,
+            "url": "hatena.ne.jp",
+            "phone": "910-773-2075",
+            "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+            "average_rating": 5,
+            "total_ratings": 99,
+            "address": "1 Di Loreto Circle",
+            "image": "/src/assets/images/hero.png",
+            "schedule": [
+                {
+                    "Monday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Tuesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Wednesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Thursday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Friday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                { "Saturday": [] },
+                { "Sunday": [] }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Veum, Cole and Conn",
+            "price": 168.93,
+            "url": "zimbio.com",
+            "phone": "673-367-3998",
+            "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+            "average_rating": 1,
+            "total_ratings": 63,
+            "address": "9 Anhalt Way",
+            "image": "/src/assets/images/hero.png",
+            "schedule": [
+                {
+                    "Monday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Tuesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Wednesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Thursday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Friday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                { "Saturday": [] },
+                { "Sunday": [] }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Douglas, Dickens and Kuphal",
+            "price": 618.75,
+            "url": "fc2.com",
+            "phone": "120-548-3376",
+            "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+            "average_rating": 5,
+            "total_ratings": 30,
+            "address": "952 Fieldstone Circle",
+            "image": "/src/assets/images/hero.png",
+            "schedule": [
+                {
+                    "Monday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Tuesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Wednesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Thursday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Friday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                { "Saturday": [] },
+                { "Sunday": [] }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Schoen and Sons",
+            "price": 321.06,
+            "url": "facebook.com",
+            "phone": "277-332-0386",
+            "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+            "average_rating": 2,
+            "total_ratings": 39,
+            "address": "39 Helena Pass",
+            "image": "/src/assets/images/hero.png",
+            "schedule": [
+                {
+                    "Monday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Tuesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Wednesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Thursday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Friday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                { "Saturday": [] },
+                { "Sunday": [] }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Tromp-Schulist",
+            "price": 308.32,
+            "url": "loc.gov",
+            "phone": "496-278-6354",
+            "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+            "average_rating": 4,
+            "total_ratings": 2,
+            "address": "0194 Schiller Drive",
+            "image": "/src/assets/images/hero.png",
+            "schedule": [
+                {
+                    "Monday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Tuesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Wednesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Thursday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Friday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                { "Saturday": [] },
+                { "Sunday": [] }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Kassulke-Bogan",
+            "price": 506.66,
+            "url": "php.net",
+            "phone": "828-823-9064",
+            "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+            "average_rating": 1,
+            "total_ratings": 17,
+            "address": "6567 Vera Hill",
+            "image": "/src/assets/images/hero.png",
+            "schedule": [
+                {
+                    "Monday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Tuesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Wednesday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Thursday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                {
+                    "Friday": [
+                        { "Start": "0900", "Finish": "1300" },
+                        { "Start": "1400", "Finish": "1800" }
+                    ]
+                },
+                { "Saturday": [] },
+                { "Sunday": [] }
+            ]
+        }
+    ]
+}
