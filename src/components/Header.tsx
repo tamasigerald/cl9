@@ -1,7 +1,7 @@
 import { FC } from 'react';
 import { ReactComponent as ArrowIcon } from '@/assets/images/svg/arrow.svg';
 
-type LayoutType = {
+type HeaderType = {
     color?: 'default' | 'white';
     customClassName?: string;
     title?: string;
@@ -13,7 +13,7 @@ type LayoutType = {
     };
 };
 
-const Header: FC<LayoutType> = ({
+const Header: FC<HeaderType> = ({
     color = 'default',
     customClassName = 'c-header',
     title,

@@ -1,0 +1,7 @@
+input[type="number"] {
+    color: var(--c-text);
+    &::placeholder {
+        color: var(--c-gray--900);
+        font-family: var(--t-primary);
+    }
+}

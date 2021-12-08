@@ -1,0 +1,70 @@
+.c-filter {
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    min-height: 50px;
+    padding: 10px var(--layout-margin);
+
+    border-bottom: 1px solid var(--c-primary);
+
+    svg {
+        height: 100%;
+        width: 100%;
+
+        path {
+            stroke: var(--c-primary);
+        }
+    }
+
+    &__arrowBtn {
+        cursor: pointer;
+        margin-left: auto;
+        svg {
+            transition: transform 0.2s;
+            transform-origin: 50% 50%;
+        }
+
+        &--down {
+            transform: rotate(0);
+        }
+        &--up {
+            svg {
+                transform: rotate(180deg);
+            }
+        }
+    }
+
+    &__menu {
+        overflow: hidden;
+        height: 0;
+        width: 100%;
+        opacity: 0;
+        transition: all 0.2s;
+
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        &--expanded {
+            margin-top: var(--space-sm);
+            margin-bottom: var(--space-xxs);
+            height: 28px;
+            opacity: 1;
+        }
+    }
+
+    &__input {
+        border: 1px solid var(--c-primary);
+        border-radius: 2px;
+        height: 100%;
+        width: 40%;
+        padding: var(--space-xs);
+
+        &:focus,
+        &:focus-visible {
+            border: 2px solid var(--c-primary);
+            outline: 0;
+        }
+    }
+}
