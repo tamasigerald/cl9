@@ -1,3 +1,56 @@
 .c-header {
-    padding: var(--layout-margin);
+    display: flex;
+    align-items: center;
+    height: 44px;
+    padding: 0 var(--layout-margin);
+
+    border-bottom: 1px solid var(--c-primary);
+
+    svg {
+        height: 100%;
+        width: 100%;
+
+        path {
+            stroke: var(--c-primary);
+        }
+    }
+
+    &__title {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        font-family: var(--t-secondary);
+        font-size: var(--text-lg);
+    }
+
+    &__backBtn {
+        cursor: pointer;
+        margin-right: auto;
+        height: 20px;
+        width: 12px;
+    }
+    
+    &__rightBtn {
+        cursor: pointer;
+        
+        &--filter {
+            height: 20px;
+            width: 20px;
+        }
+
+        &--heart {
+            height: 34px;
+            width: 30px;
+        }
+    }
+
+    &--white {
+        .c-header__title {
+            color: var(--c-white);
+        }
+
+        svg path {
+            stroke: var(--c-white);
+        }
+    }
 }
