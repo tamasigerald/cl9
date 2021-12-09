@@ -6,6 +6,7 @@ import { ReactComponent as FilterIcon } from '@/assets/images/svg/filter.svg';
 import { SalonType } from '@/types';
 import { fakeGetSalons } from '@/adapters/xhr';
 import Filter from '@/components/Filter';
+import ListItem from '@/components/ListItem';
 
 const SalonsPage: FC = () => {
     const [dataList, setDataList] = useState<SalonType[]>([]);
@@ -14,10 +15,14 @@ const SalonsPage: FC = () => {
     const [minFilter, setMinFilter] = useState<number | undefined>();
     const [maxFilter, setMaxFilter] = useState<number | undefined>();
 
+    const [loading, setLoading] = useState<boolean>(true);
+
     useEffect(() => {
+        setLoading(true);
         const timer = setTimeout(() => {
             const dataFromResponse = fakeGetSalons() as any;
             setDataList(dataFromResponse);
+            setLoading(false);
         }, 1000);
         return () => clearTimeout(timer);
     }, []);
@@ -56,11 +61,13 @@ const SalonsPage: FC = () => {
                 setMaxValue={(x: number | undefined) => setMaxFilter(x)}
             />
             <Layout>
-                {filteredList && filteredList.length > 0 ? (
-                    filteredList.map((salon, i) => <div key={i}>{salon.name}</div>)
-                ) : (
-                    <div>No data</div>
-                )}
+                {filteredList &&
+                    filteredList.length > 0 &&
+                    filteredList.map((salon, i) => <ListItem salon={salon} key={i} />)}
+
+                {(!filteredList || filteredList.length === 0) && !loading && <div>No data</div>}
+
+                {loading && <div>Loading...</div>}
             </Layout>
         </>
     );
