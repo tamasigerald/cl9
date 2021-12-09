@@ -1,0 +1,31 @@
+.c-hero {
+    position: relative;
+    height: 250px;
+    object-fit: contain;
+    background-position: center;
+    box-shadow: inset 0px -15px 40px 15px #000;
+
+    &__content {
+        position: absolute;
+        bottom: 2.75rem;
+        color: var(--c-white);
+    }
+
+    &__title {
+        font-family: var(--t-secondary);
+        font-size: var(--text-lg);
+    }
+
+    &__ratings {
+        font-size: var(--text-sm);
+        &__icons {
+            svg {
+                margin-right: var(--space-xxxs);
+            }
+        }
+
+        &__total {
+            font-size: var(--text-xs);
+        }
+    }
+}

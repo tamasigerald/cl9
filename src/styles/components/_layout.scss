@@ -1,3 +1,5 @@
 .c-layout {
-    padding: var(--layout-margin);
+    &--sm {
+        padding: var(--layout-margin);
+    }
 }

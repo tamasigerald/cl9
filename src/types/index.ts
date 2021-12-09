@@ -12,9 +12,16 @@ export type SalonType = {
     schedule: WeekScheduleType;
 };
 
-type DaysType = 'Monday' | 'Tuesday' | 'Wednesday' | 'Thursday' | 'Friday' | 'Saturday' | 'Sunday';
+export type DaysType =
+    | 'Monday'
+    | 'Tuesday'
+    | 'Wednesday'
+    | 'Thursday'
+    | 'Friday'
+    | 'Saturday'
+    | 'Sunday';
 
-type ScheduleType = {
+export type ScheduleType = {
     Start: string;
     Finish: string;
 };

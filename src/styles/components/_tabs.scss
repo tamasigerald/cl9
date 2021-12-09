@@ -1,0 +1,29 @@
+.c-tabs {
+    &__header {
+        display: flex;
+        align-items: center;
+        height: 50px;
+        position: relative;
+    }
+
+    &__tab {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex: 1;
+        height: 100%;
+        text-align: center;
+        border-bottom: 2px solid transparent;
+        transition: border-color 0.2s;
+
+        &--active {
+            border-color: var(--c-primary);
+        }
+    }
+
+    &__separator {
+        background-color: var(--c-gray--300);
+        height: 20px;
+    }
+
+}

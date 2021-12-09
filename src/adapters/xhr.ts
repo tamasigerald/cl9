@@ -18,3 +18,7 @@ export function post(url: string, data: any) {
 export function fakeGetSalons() {
     return salonDB.salons;
 }
+
+export function fakeGetSalonByID(id: number) {
+    return salonDB.salons.find((salon) => salon.id === id);
+}

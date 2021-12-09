@@ -11,40 +11,30 @@
             "total_ratings": 45,
             "address": "32 Delladonna Plaza",
             "image": "/src/assets/images/hero.png",
-            "schedule": [
-                {
-                    "Monday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Tuesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Wednesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Thursday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Friday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                { "Saturday": [] },
-                { "Sunday": [] }
-            ]
+            "schedule": {
+                "Monday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Tuesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Wednesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Thursday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Friday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Saturday": [],
+                "Sunday": []
+            }
         },
         {
             "id": 2,
@@ -57,40 +47,30 @@
             "total_ratings": 12,
             "address": "7 Dennis Trail",
             "image": "/src/assets/images/hero.png",
-            "schedule": [
-                {
-                    "Monday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Tuesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Wednesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Thursday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Friday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                { "Saturday": [] },
-                { "Sunday": [] }
-            ]
+            "schedule": {
+                "Monday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Tuesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Wednesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Thursday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Friday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Saturday": [],
+                "Sunday": []
+            }
         },
         {
             "id": 3,
@@ -103,40 +83,30 @@
             "total_ratings": 47,
             "address": "6 Ronald Regan Plaza",
             "image": "/src/assets/images/hero.png",
-            "schedule": [
-                {
-                    "Monday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Tuesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Wednesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Thursday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Friday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                { "Saturday": [] },
-                { "Sunday": [] }
-            ]
+            "schedule": {
+                "Monday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Tuesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Wednesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Thursday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Friday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Saturday": [],
+                "Sunday": []
+            }
         },
         {
             "id": 4,
@@ -149,40 +119,30 @@
             "total_ratings": 7,
             "address": "0 Westerfield Way",
             "image": "/src/assets/images/hero.png",
-            "schedule": [
-                {
-                    "Monday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Tuesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Wednesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Thursday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Friday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                { "Saturday": [] },
-                { "Sunday": [] }
-            ]
+            "schedule": {
+                "Monday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Tuesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Wednesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Thursday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Friday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Saturday": [],
+                "Sunday": []
+            }
         },
         {
             "id": 5,
@@ -195,40 +155,30 @@
             "total_ratings": 80,
             "address": "0 New Castle Court",
             "image": "/src/assets/images/hero.png",
-            "schedule": [
-                {
-                    "Monday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Tuesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Wednesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Thursday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Friday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                { "Saturday": [] },
-                { "Sunday": [] }
-            ]
+            "schedule": {
+                "Monday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Tuesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Wednesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Thursday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Friday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Saturday": [],
+                "Sunday": []
+            }
         },
         {
             "id": 6,
@@ -241,40 +191,30 @@
             "total_ratings": 8,
             "address": "069 Vermont Road",
             "image": "/src/assets/images/hero.png",
-            "schedule": [
-                {
-                    "Monday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Tuesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Wednesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Thursday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Friday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                { "Saturday": [] },
-                { "Sunday": [] }
-            ]
+            "schedule": {
+                "Monday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Tuesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Wednesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Thursday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Friday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Saturday": [],
+                "Sunday": []
+            }
         },
         {
             "id": 7,
@@ -287,40 +227,30 @@
             "total_ratings": 22,
             "address": "30 Lerdahl Court",
             "image": "/src/assets/images/hero.png",
-            "schedule": [
-                {
-                    "Monday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Tuesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Wednesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Thursday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Friday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                { "Saturday": [] },
-                { "Sunday": [] }
-            ]
+            "schedule": {
+                "Monday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Tuesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Wednesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Thursday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Friday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Saturday": [],
+                "Sunday": []
+            }
         },
         {
             "id": 8,
@@ -333,40 +263,30 @@
             "total_ratings": 7,
             "address": "28 Dottie Junction",
             "image": "/src/assets/images/hero.png",
-            "schedule": [
-                {
-                    "Monday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Tuesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Wednesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Thursday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Friday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                { "Saturday": [] },
-                { "Sunday": [] }
-            ]
+            "schedule": {
+                "Monday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Tuesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Wednesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Thursday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Friday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Saturday": [],
+                "Sunday": []
+            }
         },
         {
             "id": 9,
@@ -379,40 +299,30 @@
             "total_ratings": 20,
             "address": "8 Chinook Trail",
             "image": "/src/assets/images/hero.png",
-            "schedule": [
-                {
-                    "Monday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Tuesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Wednesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Thursday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Friday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                { "Saturday": [] },
-                { "Sunday": [] }
-            ]
+            "schedule": {
+                "Monday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Tuesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Wednesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Thursday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Friday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Saturday": [],
+                "Sunday": []
+            }
         },
         {
             "id": 10,
@@ -425,40 +335,30 @@
             "total_ratings": 20,
             "address": "9010 Hansons Circle",
             "image": "/src/assets/images/hero.png",
-            "schedule": [
-                {
-                    "Monday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Tuesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Wednesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Thursday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Friday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                { "Saturday": [] },
-                { "Sunday": [] }
-            ]
+            "schedule": {
+                "Monday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Tuesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Wednesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Thursday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Friday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Saturday": [],
+                "Sunday": []
+            }
         },
         {
             "id": 11,
@@ -471,40 +371,30 @@
             "total_ratings": 73,
             "address": "61 Mariners Cove Point",
             "image": "/src/assets/images/hero.png",
-            "schedule": [
-                {
-                    "Monday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Tuesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Wednesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Thursday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Friday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                { "Saturday": [] },
-                { "Sunday": [] }
-            ]
+            "schedule": {
+                "Monday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Tuesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Wednesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Thursday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Friday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Saturday": [],
+                "Sunday": []
+            }
         },
         {
             "id": 12,
@@ -517,40 +407,30 @@
             "total_ratings": 43,
             "address": "069 Schlimgen Center",
             "image": "/src/assets/images/hero.png",
-            "schedule": [
-                {
-                    "Monday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Tuesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Wednesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Thursday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Friday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                { "Saturday": [] },
-                { "Sunday": [] }
-            ]
+            "schedule": {
+                "Monday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Tuesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Wednesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Thursday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Friday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Saturday": [],
+                "Sunday": []
+            }
         },
         {
             "id": 13,
@@ -563,40 +443,30 @@
             "total_ratings": 96,
             "address": "952 Farragut Circle",
             "image": "/src/assets/images/hero.png",
-            "schedule": [
-                {
-                    "Monday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Tuesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Wednesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Thursday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Friday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                { "Saturday": [] },
-                { "Sunday": [] }
-            ]
+            "schedule": {
+                "Monday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Tuesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Wednesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Thursday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Friday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Saturday": [],
+                "Sunday": []
+            }
         },
         {
             "id": 14,
@@ -609,40 +479,30 @@
             "total_ratings": 45,
             "address": "93287 Bashford Alley",
             "image": "/src/assets/images/hero.png",
-            "schedule": [
-                {
-                    "Monday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Tuesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Wednesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Thursday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Friday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                { "Saturday": [] },
-                { "Sunday": [] }
-            ]
+            "schedule": {
+                "Monday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Tuesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Wednesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Thursday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Friday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Saturday": [],
+                "Sunday": []
+            }
         },
         {
             "id": 15,
@@ -655,40 +515,30 @@
             "total_ratings": 99,
             "address": "1 Di Loreto Circle",
             "image": "/src/assets/images/hero.png",
-            "schedule": [
-                {
-                    "Monday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Tuesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Wednesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Thursday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Friday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                { "Saturday": [] },
-                { "Sunday": [] }
-            ]
+            "schedule": {
+                "Monday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Tuesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Wednesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Thursday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Friday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Saturday": [],
+                "Sunday": []
+            }
         },
         {
             "id": 16,
@@ -701,40 +551,30 @@
             "total_ratings": 63,
             "address": "9 Anhalt Way",
             "image": "/src/assets/images/hero.png",
-            "schedule": [
-                {
-                    "Monday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Tuesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Wednesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Thursday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Friday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                { "Saturday": [] },
-                { "Sunday": [] }
-            ]
+            "schedule": {
+                "Monday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Tuesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Wednesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Thursday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Friday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Saturday": [],
+                "Sunday": []
+            }
         },
         {
             "id": 17,
@@ -747,40 +587,30 @@
             "total_ratings": 30,
             "address": "952 Fieldstone Circle",
             "image": "/src/assets/images/hero.png",
-            "schedule": [
-                {
-                    "Monday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Tuesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Wednesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Thursday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Friday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                { "Saturday": [] },
-                { "Sunday": [] }
-            ]
+            "schedule": {
+                "Monday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Tuesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Wednesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Thursday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Friday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Saturday": [],
+                "Sunday": []
+            }
         },
         {
             "id": 18,
@@ -793,40 +623,30 @@
             "total_ratings": 39,
             "address": "39 Helena Pass",
             "image": "/src/assets/images/hero.png",
-            "schedule": [
-                {
-                    "Monday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Tuesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Wednesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Thursday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Friday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                { "Saturday": [] },
-                { "Sunday": [] }
-            ]
+            "schedule": {
+                "Monday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Tuesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Wednesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Thursday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Friday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Saturday": [],
+                "Sunday": []
+            }
         },
         {
             "id": 19,
@@ -839,40 +659,30 @@
             "total_ratings": 2,
             "address": "0194 Schiller Drive",
             "image": "/src/assets/images/hero.png",
-            "schedule": [
-                {
-                    "Monday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Tuesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Wednesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Thursday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Friday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                { "Saturday": [] },
-                { "Sunday": [] }
-            ]
+            "schedule": {
+                "Monday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Tuesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Wednesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Thursday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Friday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Saturday": [],
+                "Sunday": []
+            }
         },
         {
             "id": 20,
@@ -885,40 +695,30 @@
             "total_ratings": 17,
             "address": "6567 Vera Hill",
             "image": "/src/assets/images/hero.png",
-            "schedule": [
-                {
-                    "Monday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Tuesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Wednesday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Thursday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                {
-                    "Friday": [
-                        { "Start": "0900", "Finish": "1300" },
-                        { "Start": "1400", "Finish": "1800" }
-                    ]
-                },
-                { "Saturday": [] },
-                { "Sunday": [] }
-            ]
+            "schedule": {
+                "Monday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Tuesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Wednesday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Thursday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Friday": [
+                    { "Start": "0900", "Finish": "1300" },
+                    { "Start": "1400", "Finish": "1800" }
+                ],
+                "Saturday": [],
+                "Sunday": []
+            }
         }
     ]
 }

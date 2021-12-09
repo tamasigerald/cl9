@@ -1,0 +1,21 @@
+.p-infoTab {
+    padding: var(--layout-margin);
+    padding-top: 0;
+    &__row {
+        display: flex;
+        align-items: center;
+        padding: var(--space-xs) 0;
+        border-bottom: 1px solid var(--c-gray--300);
+    }
+
+    &__icon {
+        display: flex;
+        align-items: center;
+        margin-right: var(--space-xs);
+    }
+
+    &__desc {
+        color: var(--c-text-secondary);
+        padding: var(--layout-margin) 0;
+    }
+}

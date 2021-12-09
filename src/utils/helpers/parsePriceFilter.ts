@@ -5,7 +5,7 @@ const parsePriceFilters = (minFilter: number | undefined, maxFilter: number | un
     if (minFilter && maxFilter) return `${priceString} ${minFilter} - ${maxFilter} kr`;
     if (minFilter) return `${priceString} > ${minFilter} kr`;
     if (maxFilter) return `${priceString} < ${maxFilter} kr`;
-    if (!minFilter && !maxFilter) return `${filterString}`;
+    return `${filterString}`;
 };
 
 export default parsePriceFilters;

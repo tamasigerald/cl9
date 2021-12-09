@@ -51,6 +51,9 @@
     }
 
     &--white {
+        background-color: transparent;
+        border: none;
+
         .c-header__title {
             color: var(--c-white);
         }
