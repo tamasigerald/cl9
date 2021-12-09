@@ -1,10 +1,14 @@
 .c-filter {
-    position: relative;
+    position: sticky;
+    top: 44px;
+    z-index: 2;
     display: flex;
     align-items: center;
     flex-wrap: wrap;
     min-height: 50px;
     padding: 10px var(--layout-margin);
+
+    background-color: var(--c-white);
 
     border-bottom: 1px solid var(--c-primary);
 

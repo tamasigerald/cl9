@@ -45,13 +45,11 @@ const SalonsPage: FC = () => {
         <>
             <Header
                 title="Hår"
-                backButtonFn={() => {
-                    console.log('hey');
-                }}
+                backButtonFn={() => alert('Action not available ;)')}
                 rightButton={{
                     icon: <FilterIcon />,
                     class: 'filter',
-                    rightButtonFn: () => alert('right button'),
+                    rightButtonFn: () => alert('Right button action ;)'),
                 }}
             />
             <Filter
