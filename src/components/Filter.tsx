@@ -1,6 +1,8 @@
 import { FC, useState } from 'react';
 import { ReactComponent as ArrowIcon } from '@/assets/images/svg/arrow-small.svg';
 
+import parsePriceFilters from '@/utils/helpers/parsePriceFilter';
+
 type FilterType = {
     minValue?: number;
     maxValue?: number;
@@ -16,8 +18,6 @@ const Filter: FC<FilterType> = ({ minValue, maxValue, setMinValue, setMaxValue }
         const inputName = input.name;
         const inputValue = input.value || undefined;
 
-        console.log(inputValue);
-
         if (inputName === 'min') {
             inputValue ? setMinValue(parseFloat(inputValue)) : setMinValue(undefined);
         } else if (inputName === 'max') {
@@ -27,7 +27,7 @@ const Filter: FC<FilterType> = ({ minValue, maxValue, setMinValue, setMaxValue }
 
     return (
         <div className={'c-filter'}>
-            <div className={'c-filter}__text'}>Pris 250 - 500 kr</div>
+            <div className={'c-filter}__text'}>{parsePriceFilters(minValue, maxValue)}</div>
 
             <div
                 className={`c-filter__arrowBtn ${
