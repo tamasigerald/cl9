@@ -4,18 +4,68 @@
     &__row {
         display: flex;
         align-items: center;
+        flex-wrap: wrap;
         padding: var(--space-xs) 0;
         border-bottom: 1px solid var(--c-gray--300);
     }
 
-    &__icon {
+    &__icon,
+    &__arrow {
         display: flex;
         align-items: center;
+    }
+
+    &__icon {
         margin-right: var(--space-xs);
+    }
+
+    &__arrow {
+        margin-left: var(--space-sm);
+
+        svg {
+            transition: transform 0.2s;
+            transform: rotate(0deg);
+        }
+
+        &--up {
+            svg {
+                transform: rotate(180deg);
+            }
+        }
     }
 
     &__desc {
         color: var(--c-text-secondary);
         padding: var(--layout-margin) 0;
+    }
+
+    &__menu {
+        position: relative;
+        overflow: hidden;
+        height: 0;
+        width: 100%;
+        opacity: 0;
+        transition: all 0.2s;
+
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        justify-content: space-between;
+
+        &--expanded {
+            margin-top: var(--space-sm);
+            margin-bottom: var(--space-xxs);
+            height: 180px;
+            opacity: 1;
+        }
+    }
+
+    &__scheduleRow {
+        display: flex;
+        width: 100%;
+    }
+
+    &__scheduleHour {
+        margin-left: auto;
     }
 }

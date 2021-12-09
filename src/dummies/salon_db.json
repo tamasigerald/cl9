@@ -12,25 +12,22 @@
             "address": "32 Delladonna Plaza",
             "image": "/src/assets/images/hero.png",
             "schedule": {
-                "Monday": [
-                    { "Start": "0900", "Finish": "1300" },
-                    { "Start": "1400", "Finish": "1800" }
-                ],
+                "Monday": [{ "Start": "0900", "Finish": "1800" }],
                 "Tuesday": [
                     { "Start": "0900", "Finish": "1300" },
-                    { "Start": "1400", "Finish": "1800" }
+                    { "Start": "1400", "Finish": "1600" }
                 ],
                 "Wednesday": [
                     { "Start": "0900", "Finish": "1300" },
-                    { "Start": "1400", "Finish": "1800" }
+                    { "Start": "1400", "Finish": "1700" }
                 ],
                 "Thursday": [
                     { "Start": "0900", "Finish": "1300" },
-                    { "Start": "1400", "Finish": "1800" }
+                    { "Start": "1400", "Finish": "2000" }
                 ],
                 "Friday": [
                     { "Start": "0900", "Finish": "1300" },
-                    { "Start": "1400", "Finish": "1800" }
+                    { "Start": "1400", "Finish": "1300" }
                 ],
                 "Saturday": [],
                 "Sunday": []
