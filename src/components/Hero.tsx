@@ -7,7 +7,6 @@ type HeroType = {
 const getSrc = (name: string) => {
     const path = `/src/assets/images/${name}`;
     const modules = import.meta.globEager(`/src/assets/images/*.png`);
-    console.log(modules);
     return modules[path].default;
 };
 
