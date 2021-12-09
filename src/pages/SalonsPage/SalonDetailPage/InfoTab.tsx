@@ -5,8 +5,9 @@ import { ReactComponent as ClockIcon } from '@/assets/images/svg/clock.svg';
 import { ReactComponent as PhoneIcon } from '@/assets/images/svg/phone.svg';
 import { ReactComponent as GlobeIcon } from '@/assets/images/svg/globe.svg';
 
-import { SalonType } from '@/types';
 import parseScheduleText from '@/utils/helpers/parseSchedule';
+
+import { SalonType } from '@/types';
 
 type InfoTabType = {
     salon: SalonType;

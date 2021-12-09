@@ -1,6 +1,8 @@
-import Layout from '@/components/Layout';
-import { SalonType } from '@/types';
 import { FC } from 'react';
+
+import Layout from '@/components/Layout';
+
+import { SalonType } from '@/types';
 
 type ScheduleTabType = {
     salon: SalonType;

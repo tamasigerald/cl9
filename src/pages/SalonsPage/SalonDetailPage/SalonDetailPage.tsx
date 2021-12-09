@@ -4,17 +4,18 @@ import { useNavigate, useParams } from 'react-router';
 import Layout from '@/components/Layout';
 import Hero from '@/components/Hero';
 import Header from '@/components/Header';
+import Tabs from '@/components/Tabs/Tabs';
+import Tab from '@/components/Tabs/Tab/Tab';
 import { ReactComponent as Heart } from '@/assets/images/svg/heart.svg';
 import { ReactComponent as StarFill } from '@/assets/images/svg/star.svg';
 import { ReactComponent as StarEmpty } from '@/assets/images/svg/star-empty.svg';
 
+import InfoTab from './InfoTab';
+import ScheduleTab from './ScheduleTab';
+
 import { fakeGetSalonByID } from '@/adapters/xhr';
 
 import { SalonType } from '@/types';
-import Tabs from '@/components/Tabs/Tabs';
-import Tab from '@/components/Tabs/Tab/Tab';
-import InfoTab from './InfoTab';
-import ScheduleTab from './ScheduleTab';
 
 const SalonDetailPage: FC = () => {
     const { salon: salonId } = useParams();

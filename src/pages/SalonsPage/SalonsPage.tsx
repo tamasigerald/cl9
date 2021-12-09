@@ -1,12 +1,14 @@
 import { FC, useEffect, useState } from 'react';
+
+import Filter from '@/components/Filter';
 import Layout from '@/components/Layout';
 import Header from '@/components/Header';
-
-import { ReactComponent as FilterIcon } from '@/assets/images/svg/filter.svg';
-import { SalonType } from '@/types';
-import { fakeGetSalons } from '@/adapters/xhr';
-import Filter from '@/components/Filter';
 import ListItem from '@/components/ListItem';
+import { ReactComponent as FilterIcon } from '@/assets/images/svg/filter.svg';
+
+import { fakeGetSalons } from '@/adapters/xhr';
+
+import { SalonType } from '@/types';
 
 const SalonsPage: FC = () => {
     const [dataList, setDataList] = useState<SalonType[]>([]);
